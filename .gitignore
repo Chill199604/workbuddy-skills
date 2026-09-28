@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# 真实业务数据（不随仓库发布）
+*.xlsx
+*.csv
+*.json
+!sample_*
