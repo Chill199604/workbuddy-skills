@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# 中间产物
+metrics.json
+
+# 示例数据含真实业务订单信息，不随仓库发布
+assets/sample_orders.csv
+assets/example_report.html

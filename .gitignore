@@ -13,5 +13,6 @@ Thumbs.db
 # 真实业务数据（不随仓库发布）
 *.xlsx
 *.csv
-*.json
-!sample_*
+
+# skill 自带的非发布资源（含真实订单样本等）
+**/assets/
