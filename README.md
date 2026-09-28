@@ -1,5 +1,9 @@
 # workbuddy-skills
 
+> **仓库描述**：适用于电商管理、覆盖各平台数据分析的可复用 Skill 集合
+>
+> **建议 Topics**：`ecommerce` · `data-analysis` · `workbuddy` · `skill` · `refund-analysis` · `customer-experience`
+
 WorkBuddy 可复用技能（Skill）收纳仓库，定位 **电商售后 / 数据分析** 方向。
 
 每个子目录是一个自包含的 Skill（含 `SKILL.md` + `scripts/` + `references/`），互不干扰，可单独拷贝到 `~/.workbuddy/skills/` 使用。
